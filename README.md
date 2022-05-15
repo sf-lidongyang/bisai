@@ -1,7 +1,9 @@
 # <a name="title">Taichi Voxel Challenge</a>
-
+# My voxel
 <p align="center">
 <img src="demo1.jpg" width="75%"></img>
+<img src="demo2.jpg" width="75%"></img>
+<img src="demo3.jpg" width="75%"></img>
 </p>
 
 > Figure: result of `python3 example6.py`. Please replace the image above (`demo.jpg`) with yours, so that other people can immediately see your results :-)
